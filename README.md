@@ -1,4 +1,4 @@
-# C-Game-appication
+# C-Game-application
 A tic Tac Toe game has been Made using the C programming 
 While making a Tic Tac Toe game using C language, it is important to make use of arrays. The Xs and Os are kept in different arrays, and they are passed between several functions in the code to keep track of how the game goes. With the code here you can play the game choosing either X or O against the computer.
 
